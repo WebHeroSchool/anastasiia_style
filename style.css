@@ -1,6 +1,7 @@
-.main__text {
-  font-family: 'Sen', sans-serif;
-}
-.name {
+body {
   font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Anton', sans-serif;
 }
